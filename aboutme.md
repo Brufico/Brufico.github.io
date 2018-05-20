@@ -10,13 +10,11 @@ My name is Bruno Fischer Colonimos.
 
 This site is very much under construction now. Almost everything is quite sketchy. I will improve it as I go.
 
-
-
 I am a *Quantitative Analysis* teacher. 
 
-I have done that for a long time now. I have worked in many different settings, and I have worked with Computer Science students, but most of the time I have taught Business students. 
+I have done this for a long time now. I have worked in many different settings, most of the time with Business students, but also with Computer Science students. Last year, at **Essec**, the most frequent background in the group was Engineering.  
 
-I have worked in higher education, in a range of different curricula:
+I have nearly always worked in higher education, in a range of different curricula:
  
 * Short 2-years programmes (BTS)
 * "Junior" Business Schools (Masters programmes)
@@ -58,13 +56,13 @@ I regularly teach the following subjects:
 
 ### Teaching philosophy
 
-Some time ago, I have also taught Sailing. It has been a seminal experience. It taught me some fundamental truth about education:
+At the beginning of my academic life, I have also taught Sailing on the side. It has been a seminal experience. It taught me some fundamental truth about education:
 
-* Teaching is a misnomer. The teacher does not really *teach*. He/she opens doors, provides point-of-views, perspectives and a learning framework to the student. The essential part of the learning process occurs inside the student. The student really *learns*. <br>Educators  really are the *sherpas*, the guides, while the student is both the workforce, the recipient and the product of education.
-* Activity is key. You cannot learn anything without engagement. Therefore, engagement is essential for the teacher as well.
-* As a teacher, you must prepare a great deal. You have to set objectives, prepare a range of activities, imagine outcomes... But never fall in love with your preparation. It is a mean, not an end. Teaching Sailing, meeting with my pupils in the mordning, on the seashore, I had to watch the sky, evaluate the wind, gauge the experience of the group I had, and adapt, even improvise. A good preparation will allow you to do that. Situation is key.
+* **Teaching is a misnomer**. The teacher does not really *teach*. He/she opens doors, provides point-of-views, perspectives and a learning framework to the student. The essential part of the learning process occurs inside the student. The student really *learns*. <br>Educators  really are the *sherpas*, the guides, while the student is both the workforce, the recipient and the product of the educational process.
+* **Activity is key**. You cannot learn anything without engagement. Therefore, engagement is essential for the teacher as well.
+* **Plan the work, but don't necessarily work the plan**. As a teacher, you must prepare a great deal. You have to set objectives, prepare a range of activities, imagine outcomes... But never fall in love with your preparation. It is a mean, not an end. Teaching Sailing, meeting with my pupils in the mordning, on the seashore, I had to watch the sky, evaluate the wind, gauge the experience of the group I had, and adapt, even improvise. A good preparation will allow you to do that. Situation is key.
 
-Of course, different educational settings spell different constraints for the educator. But such should be the spirit: focus on the end, not on the means.
+Of course, different educational settings spell different constraints for the educator. But such should be the spirit: focus on the end, not only on the means.
 
 
 Education
@@ -76,7 +74,7 @@ I still learn, notably about Data Science.
 Interests
 ---------
 
-I am fascinated by all aspects of human decision-making. Consequently, I am very interested in all kinds of technology that aims to assist decision-making, be it in Data analysis or in Decision Analysis / Management Science
+I am fascinated by all aspects of human decision-making. Therefore, I am very interested in all kinds of technology that aims to assist decision-making, be it in Data analysis, Decision Analysis / Management Science or in teaching *per se*
 
 
 
