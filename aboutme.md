@@ -8,8 +8,6 @@ Hello,
 
 My name is Bruno Fischer Colonimos.
 
-This site is very much under construction now. Almost everything is quite sketchy. I will improve it as I go.
-
 I am a *Quantitative Analysis* teacher. 
 
 I have done this for a long time now. I have worked in many different settings, most of the time with Business students, but also with Computer Science students. Last year, at **Essec**, the most frequent background in the group was Engineering.  
@@ -39,7 +37,7 @@ Teaching
 
 ### Institutions
 
-I have worked for a wide range of institutions. I now teach almost exclusivly at:
+I have worked for a wide range of institutions. I now teach almost exclusively at:
 
 * **Ipag Business School**, Paris, France
 * **American Business School**, Paris, France
@@ -71,7 +69,7 @@ I still learn, notably about Data Science.
 Interests
 ---------
 
-I am fascinated by all aspects of human decision-making. Therefore, I am very interested in all kinds of technology that aims to assist decision-making, be it in Data analysis, Decision Analysis / Management Science or in Teaching *per se*
+I am fascinated by all aspects of human decision-making. Therefore, I am very interested in all kinds of technology that aim to assist decision-making, be it in Data analysis, Decision Analysis / Management Science or in Teaching *per se*.
 
 
 
